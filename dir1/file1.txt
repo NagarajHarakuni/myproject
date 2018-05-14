@@ -1,3 +1,7 @@
 first line
 second line second folder
+<<<<<<< HEAD
 third line
+hi
+=======
+>>>>>>> parent of e4e454e... last commit before lunch
