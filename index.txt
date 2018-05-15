@@ -4,3 +4,4 @@ third line
 fourth line
 master line
 line1
+line another
