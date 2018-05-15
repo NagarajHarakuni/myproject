@@ -6,3 +6,4 @@ master line
 line1
 line another
 line one more
+new line
